@@ -1,12 +1,12 @@
-import './globals.css';
+import '../public/globals.css';
 import { Inter } from 'next/font/google';
 
 const inter = Inter({ subsets: ['latin'] });
 
-export const metadata = {
-  title: "Artist's Portfolio and Auction",
-  description: "Artist's Portfolio and Auction",
-};
+// export const metadata = {
+//   title: "Artist's Portfolio and Auction",
+//   description: "Artist's Portfolio and Auction",
+// };
 
 export default function RootLayout({
   children,
