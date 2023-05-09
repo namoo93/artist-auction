@@ -1,3 +1,1 @@
-# APA
-Artist's Portfolio and Auction
-
+# Artist's Portfolio and Auction
