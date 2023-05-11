@@ -6,11 +6,15 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata = {
   title: "Artist's Portfolio and Auction",
   description: "Artist's Portfolio and Auction",
-  keywords: ['Next.js', 'React', 'JavaScript'],
-  icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-  },
+  keywords: [
+    'auction',
+    'art auction',
+    'artist',
+    'art sale',
+    'artist portfolio',
+    'artwork',
+  ],
+  robots: '',
 };
 
 export default function RootLayout({
