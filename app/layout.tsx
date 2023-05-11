@@ -4,6 +4,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
+  // applicationName: "Artist's Portfolio and Auction", //모바일의 경우
+  referrer: 'origin-when-cross-origin',
   title: "Artist's Portfolio and Auction",
   description: "Artist's Portfolio and Auction",
   keywords: [
@@ -14,8 +16,9 @@ export const metadata = {
     'artist portfolio',
     'artwork',
   ],
-  robots: '',
+  robots: 'ALL',
 };
+// 참고자료: //developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name
 
 export default function RootLayout({
   children,
