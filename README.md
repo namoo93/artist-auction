@@ -1,6 +1,8 @@
-# Artist's Portfolio and Auction
+# Artist's Portfolio and Auction (APA)
 
-![Videotogif (1)](https://user-images.githubusercontent.com/65433193/118928788-a7f80800-b97e-11eb-958e-e40e1098af2f.gif)
+<!-- ![Videotogif (1)](https://user-images.githubusercontent.com/65433193/118928788-a7f80800-b97e-11eb-958e-e40e1098af2f.gif) -->
+
+완성후 비쥬얼 gif 자리
 
 <br/>
 
@@ -19,17 +21,17 @@
   <a href="https://styled-components.com/"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="50px;" /></a>
 </p><br />
 
-| region           | techniques and tools      |
-| ---------------- | ------------------------- |
-| Front-end        | Next.js(React)/TypeScript |
-| Back-end         |                           |
-| State management |                           |
-| Hosting          | Heroku                    |
-| API Server       | Firebase Functions        |
-| Certification    | Firebase Authentication   |
-| Storage          | Firebase Storage          |
-| Linter/Formatter | ESLint/Prettier           |
-| Testing          | React Testing Library     |
+| region           | techniques and tools                                                                |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| Front-end        | Next.js(React)/TypeScript                                                           |
+| Back-end         |                                                                                     |
+| State management | <a href="https://jotai.org/">Jotai </a>/<a href="https://swr.vercel.app.ko">SWR</a> |
+| Hosting          | <a href="https://aws.amazon.com/ko/amplify/">AWS Amplify</a>                        |
+| API Server       |                                                                                     |
+| Certification    |                                                                                     |
+| Storage          |                                                                                     |
+| Linter/Formatter | ESLint/Prettier                                                                     |
+| Testing          | React Testing Library                                                               |
 
 ### Other libraries, etc.
 
@@ -40,15 +42,16 @@
 
 ## Concept
 
-### APA는 지향합니다.
+### 서비스 목표
 
-언더의 예술가들을 시장으로 돋움하고 콜렉터들과 소통하며 작품의 가치를 무한하게 끌어올리기를<br />
+Artist's Portfolio and Auction를 통해 언더의 예술가들을 인터넷 시장으로 돋움하고 콜렉터들과 소통하며 작품의 가치를 무한하게 끌어올리기를 지향합니다.<br />
 
-### 도전과제 및 목표
+### 도전과제
 
 - SEO 최적화 /
   구글의 검색 엔진에 더 많은 작가의 포트폴리오와 작품들이 걸리도록 최적화 합니다.
-- 빠른 검색 경험
+- 편리한 ui 막힘없는 ux 제공 /
+  검색이 편리하고
 
 <br/>
 
