@@ -44,6 +44,12 @@
 
 언더의 예술가들을 시장으로 돋움하고 콜렉터들과 소통하며 작품의 가치를 무한하게 끌어올리기를<br />
 
+### 도전과제 및 목표
+
+- SEO 최적화 /
+  구글의 검색 엔진에 더 많은 작가의 포트폴리오와 작품들이 걸리도록 최적화 합니다.
+- 빠른 검색 경험
+
 <br/>
 
 ## Functions
@@ -77,7 +83,7 @@ Authenticate with FirebaseAuthentication
 
 - All pages are fully responsive
 
-### 도전 과제 및 더나아가야 할점
+### 더나아가야 할점
 
 -
 
