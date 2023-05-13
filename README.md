@@ -2,7 +2,7 @@
 
 <!-- ![Videotogif (1)](https://user-images.githubusercontent.com/65433193/118928788-a7f80800-b97e-11eb-958e-e40e1098af2f.gif) -->
 
-완성후 비쥬얼 gif 자리
+<!-- 완성후 비쥬얼 gif 자리 -->
 
 <br/>
 
