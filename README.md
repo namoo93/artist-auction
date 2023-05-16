@@ -21,17 +21,17 @@
   <a href="https://styled-components.com/"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="50px;" /></a>
 </p><br />
 
-| region           | techniques and tools                                                                |
-| ---------------- | ----------------------------------------------------------------------------------- |
-| Front-end        | Next.js(React)/TypeScript                                                           |
-| Back-end         |                                                                                     |
-| State management | <a href="https://jotai.org/">Jotai </a>/<a href="https://swr.vercel.app.ko">SWR</a> |
-| Hosting          | <a href="https://aws.amazon.com/ko/amplify/">AWS Amplify</a>                        |
-| API Server       |                                                                                     |
-| Certification    |                                                                                     |
-| Storage          |                                                                                     |
-| Linter/Formatter | ESLint/Prettier                                                                     |
-| Testing          | React Testing Library                                                               |
+| region           | techniques and tools                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Front-end        | Next.js(React)/TypeScript                                                                                                |
+| Back-end         |                                                                                                                          |
+| State management | <a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/">react-query</a> |
+| Hosting          | <a href="https://aws.amazon.com/ko/amplify/">AWS Amplify</a>                                                             |
+| API Server       |                                                                                                                          |
+| Certification    |                                                                                                                          |
+| Storage          |                                                                                                                          |
+| Linter/Formatter | ESLint/Prettier                                                                                                          |
+| Testing          | React Testing Library                                                                                                    |
 
 ### Other libraries, etc.
 
