@@ -1,9 +1,8 @@
 import '../public/globals.css';
+import ReactQueryProvider from './ReactQueryProvider';
 import { Inter } from 'next/font/google';
-import { QueryClient, QueryClientProvider } from 'react-query';
 
 const inter = Inter({ subsets: ['latin'] });
-// const queryClient = new QueryClient();
 
 export const metadata = {
   // applicationName: "Artist's Portfolio and Auction", //모바일의 경우
@@ -29,9 +28,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
-      {/* <QueryClientProvider client={queryClient}> */}
-      <body className={inter.className}>{children}</body>
-      {/* </QueryClientProvider> */}
+      <body className={inter.className}>
+        <ReactQueryProvider>{children}</ReactQueryProvider>
+      </body>
     </html>
   );
 }
