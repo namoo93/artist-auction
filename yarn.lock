@@ -1191,6 +1191,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@tanstack/eslint-plugin-query@^5.0.0-alpha.34":
+  version "5.0.0-alpha.34"
+  resolved "https://registry.yarnpkg.com/@tanstack/eslint-plugin-query/-/eslint-plugin-query-5.0.0-alpha.34.tgz#cae46d2a5851a3f10947e3b8ac9909be99f6d314"
+  integrity sha512-aSEYxpC5CcZrQ9Gj4+YfCwjcii/cJ1kXZD2Bw19yaGnH9LZhScaFsCXI5Gcf/ABgduU6d0xocomN6WMAD8XpLg==
+
 "@tanstack/match-sorter-utils@^8.7.0":
   version "8.8.4"
   resolved "https://registry.yarnpkg.com/@tanstack/match-sorter-utils/-/match-sorter-utils-8.8.4.tgz#0b2864d8b7bac06a9f84cb903d405852cc40a457"
@@ -1198,10 +1203,10 @@
   dependencies:
     remove-accents "0.4.2"
 
-"@tanstack/query-core@4.29.7":
-  version "4.29.7"
-  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-4.29.7.tgz#9fe4587e23cb9566b937c518ffa44226041d388d"
-  integrity sha512-GXG4b5hV2Loir+h2G+RXhJdoZhJLnrBWsuLB2r0qBRyhWuXq9w/dWxzvpP89H0UARlH6Mr9DiVj4SMtpkF/aUA==
+"@tanstack/query-core@5.0.0-alpha.34":
+  version "5.0.0-alpha.34"
+  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.0.0-alpha.34.tgz#d5b5544964ae7532a596edbafadccbdf3b8ba406"
+  integrity sha512-/59XnJ7LDbEeliPx1xKvwjBNN3tpRUJxbaCn89qr11tjhNq5hRLQ301aQSxSdjvbFCHb8iOsGHzSb/e4m+3LXQ==
 
 "@tanstack/react-query-devtools@^4.29.7":
   version "4.29.7"
@@ -1212,13 +1217,12 @@
     superjson "^1.10.0"
     use-sync-external-store "^1.2.0"
 
-"@tanstack/react-query@^4.29.7":
-  version "4.29.7"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-4.29.7.tgz#772996905a81ca64172582891c5a82e88dbafccd"
-  integrity sha512-ijBWEzAIo09fB1yd22slRZzprrZ5zMdWYzBnCg5qiXuFbH78uGN1qtGz8+Ed4MuhaPaYSD+hykn+QEKtQviEtg==
+"@tanstack/react-query@^5.0.0-alpha.34":
+  version "5.0.0-alpha.34"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.0.0-alpha.34.tgz#4cfc82eda86c85228824bf1f937ebf8cc0af22ea"
+  integrity sha512-E5vrRIR3oqCE4qZfPRGLWtplrh8tLG9ux7iRDzRx+V7SUFyLLNxK0hi5JdH/KB1WxeGJzCwanC8PUjWRY0QOHQ==
   dependencies:
-    "@tanstack/query-core" "4.29.7"
-    use-sync-external-store "^1.2.0"
+    "@tanstack/query-core" "5.0.0-alpha.34"
 
 "@types/hoist-non-react-statics@*":
   version "3.3.1"
