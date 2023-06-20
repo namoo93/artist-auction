@@ -1,8 +1,12 @@
 'use client';
 import React from 'react';
 
-const Item = () => {
-  return <div>pppp</div>;
-};
-
-export default Item;
+export default function Item() {
+  const a = fetch('http://asd');
+  return (
+    <div>
+      {a + ''}
+      pppp
+    </div>
+  );
+}
